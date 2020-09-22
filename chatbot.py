@@ -13,7 +13,7 @@ def get_rude_bot_response(user_response):
   elif user_response == "bad" :
     return choice(bot_response_bad)
   else:
-    return " Yeah, I'm gonna be honest I wast really paying attention just now.... sooooo, what were you saying?"
+    return " Yeah, I'm gonna be honest I wast really paying attention just now.... soooo, what were you saying?"
 
 
 
